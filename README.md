@@ -1,5 +1,31 @@
 # amazing
 
+
+Technology：
+
+teg
+
+ai
+
+admin
+
+protocol
+
+sku
+
+pay
+
+activity
+
+
+
+
+interest：
+
+game util
+password manage
+
+
 <!--
 **esbug/esbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
